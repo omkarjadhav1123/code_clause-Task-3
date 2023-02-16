@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Music App</string>
+    <string name="song">song</string>
+    <string name="here_song_comes_in_one_line">here song comes in one line</string>
+    <string name="todo">TODO</string>
+    <string name="bcd">TODO</string>
+    <string name="vxy">TODO</string>
+    <string name="jkl">TODO</string>
+    <string name="_2_00">2.00</string>
+    <string name="_0_30">0.30</string>
+    <string name="song_name">song name</string>
+
+</resources>
